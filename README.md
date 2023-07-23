@@ -1,7 +1,10 @@
 # TrabajoPractico-Spring2023-com23312
+Para el sig trabajo practico se trabajo con conexion a H2 utilizando application.yml.
+Al correr el programa con el SCOPE=integration_test se realiza una precarga de usuarios, vuelos, reservas, pagos y asientos para poder trabajar
+luego con los endpoints sin problemas.
 
-Sistema de ventas de vuelos
 
+--Sistema de ventas de vuelos--
 
 Nombre de la unidad de negocio: FlySky - Sistema de Ventas de Vuelos
 
